@@ -1,0 +1,1 @@
+# mini_game_open_word_box
