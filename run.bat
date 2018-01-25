@@ -1,0 +1,1 @@
+g++ -Wall -IE:/SDL_HOME/include -LE:/SDL_HOME/lib *.cpp -o main -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf
